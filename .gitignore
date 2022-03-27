@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Fm.Maths/bin/Debug/net6.0
+/Fm.Maths/obj
+/.vs
+/Fm.Maths.NUnitTest/bin
+/Fm.Maths.NUnitTest/obj
+/Maths/.vs/Maths
+/Maths/packages
+/packages
